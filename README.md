@@ -8,7 +8,7 @@ This is a collection of my cybersecurity home lab projects. Each folder contains
 
 ## Projects
 
-- Refirbished Laptop
+- Refurbished Laptop
 
 ## Tools Used
 
